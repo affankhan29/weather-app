@@ -137,5 +137,9 @@ body{
         width: 7.5vw;
         margin-right: 10px;
     }
+     .wind , .humidity{
+        font-size: 19px ;
+        
+    }
   }
   
